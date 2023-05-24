@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../source/kernel/include/os_cfg.h
+
+E:/diy-x86os-master/code/c22.02/source/kernel/init/first_task_entry.S
+
+E:/diy-x86os-master/code/c22.02/source/kernel/init/start.S
+os_cfg.h
+E:/diy-x86os-master/code/c22.02/source/kernel/init/os_cfg.h
+
